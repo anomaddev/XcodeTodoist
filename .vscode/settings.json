@@ -1,0 +1,6 @@
+{
+    "python.envFile": ".env",
+    "python.autoComplete.extraPaths": [
+        "./src"
+    ]
+}
